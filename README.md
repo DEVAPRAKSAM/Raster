@@ -1,2 +1,2 @@
-# Raster
+#GeoRaster
 rastero image processing
